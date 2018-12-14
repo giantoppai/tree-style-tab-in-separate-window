@@ -162,6 +162,7 @@ function getDefaultSettings() {
 
     openAfterCurrentTab: true,
     openAsChildOfCurrentTab: false,
+    tab_ContextMenu: false,
     delayBeforeWindowSeperationInMilliseconds: 500,
   };
 }
